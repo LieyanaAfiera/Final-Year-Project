@@ -13,5 +13,3 @@ A collaborative filtering-based recommendation system for food court menus using
 - Pandas
 - Scikit-learn
 
-## How to Run
-1. Clone the repository:
